@@ -11,4 +11,8 @@
     <PackageReference Include="VirusTotalNet" Version="2.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="screenshots\" />
+  </ItemGroup>
+
 </Project>

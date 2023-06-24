@@ -1,3 +1,5 @@
+<center>
+
 # VirusTotalUploader
 
 Hi! I'm **Berkay**. I'm a first year student at Marmara University, Department of Electrical and Electronics Engineering. If you want to learn about _VirusTotalUploader_, you can read me.
@@ -12,9 +14,13 @@ Computer viruses aim to disrupt systems, cause major operational issues, and res
 
 ## What is VirusTotalUploader
 With the spread of technology recently, malicious people have often use computer viruses. For this reason, many antivirus programs have been developed. VirusTotalUploader is the one of these softwares. My aim while coding this program was to scan files locally and detect and print viruses inside. Firstly checks whether the file you want to scan has been scanned, then prints how many viruses are in the file as in the examples.
-![Image1](https://user-images.githubusercontent.com/136241183/248488240-e40b7e79-322e-4a29-b61c-a206e43eb45e.png)
-![Image2](https://user-images.githubusercontent.com/136241183/248488377-31fb2f79-f0c1-4407-b837-bb15f657b9b3.png)
-
-https://github.com/BerkayGoc/VirusTotalUploader
 
 
+
+##### Clean result
+<img src="screenshots/ss-1.png" style="max-width: 80%"/>
+
+##### Infected result 
+<img src="screenshots/ss-2.png" style="max-width: 80%"/>
+
+</center>
