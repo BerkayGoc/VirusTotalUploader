@@ -1,21 +1,20 @@
 # VirusTotalUploader
-<h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on [VirusTotalUploader](https://github.com/BerkayGoc/VirusTotalUploader)
+Hi! I'm **Berkay**. I'm a first year student at Marmara University, Department of Electrical and Electronics Engineering. If you want to learn about _VirusTotalUploader_, you can read me.
 
-- 🌱 I’m currently learning **C#, Java, Html, css**
+## What are Computer Viruses?
+###  Computer Virus Definition
+Chances are you’ve heard how important it is to keep viruses out, but what is a computer virus exactly? A computer virus is a type of malicious software, or malware, that spreads between computers and causes damage to data and software.
 
-- 📫 How to reach me **berkaygoc.1077@gmail.com**
+Computer viruses aim to disrupt systems, cause major operational issues, and result in data loss and leakage. A key thing to know about computer viruses is that they are designed to spread across programs and systems. Computer viruses typically attach to an executable host file, which results in their viral codes executing when a file is opened. The code then spreads from the document or software it is attached to via networks, drives, file-sharing programs, or infected email attachments.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_berkaygoc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_berkaygoc_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berkay-g%C3%B6%C3%A7-9aba5b171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay göç" height="30" width="40" /></a>
-<a href="https://instagram.com/_berkay.goc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_berkay.goc" height="30" width="40" /></a>
-</p>
+>If you want to know more about viruses, you can browse [this website](https://www.fortinet.com/resources/cyberglossary/computer-virus).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## What is VirusTotalUploader
+With the spread of technology recently, malicious people have often use computer viruses. For this reason, many antivirus programs have been developed. VirusTotalUploader is the one of these softwares. My aim while coding this program was to scan files locally and detect and print viruses inside. Firstly checks whether the file you want to scan has been scanned, then prints how many viruses are in the file as in the examples.
+![Image1](https://user-images.githubusercontent.com/136241183/248488240-e40b7e79-322e-4a29-b61c-a206e43eb45e.png)
+![Image2](https://user-images.githubusercontent.com/136241183/248488377-31fb2f79-f0c1-4407-b837-bb15f657b9b3.png)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaygoc&show_icons=true&locale=en&layout=compact" alt="berkaygoc" /></p>
+https://github.com/BerkayGoc/VirusTotalUploader
+
+
